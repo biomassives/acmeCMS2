@@ -1,0 +1,10 @@
+ACME CMS is a tool to help make it really simple for Academic Departments to publish web pages on their own server.
+
+This code draws from the interface originally used for AcmeCMS at CU Boulder for Engineering Sub-Departments and Centers
+
+Some departments continue to use AcmeCMS, and the goal of this site generator system is to
+provide a system with all of the same features, with responsive templating, (twig for next version)
+static code isolated from the management database, ease of use on local systems.
+
+pull requests accepted.
+greg@biomassiv.es
